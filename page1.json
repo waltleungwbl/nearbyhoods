@@ -5,6 +5,30 @@
       "body": "Hello, is this thing on?",
       "author": "Darth Maul",
       "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy1.jpg"
+    },
+    {
+      "id": 2,
+      "body": "Do you know why the scarecrow won an award?\n He was outstanding in his field!",
+      "author": "Dad Joke",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy2.jpg"
+    },
+    {
+      "id": 3,
+      "body": "What does a dog and a cellphone have in common?\n Both have Collar ID",
+      "author": "Darth Maul",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy3.jpg"
+    },
+    {
+      "id": 4,
+      "body": "What's a dog's favorite instrument?\n A Trom-bone!",
+      "author": "Darth Maul",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy4.jpg"
+    },
+    {
+      "id": 5,
+      "body": "What concert costs just 45 cents?\n 50 Cent featuring Nickelback!",
+      "author": "Darth Maul",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy5.jpg"
     }
   ]
 }
