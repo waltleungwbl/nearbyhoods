@@ -1,34 +1,55 @@
 {
+  "nextPageId": 4,
   "stories": [
     {
       "id": 11,
       "body": "What’s the difference between a poorly dressed man on a tricycle and a well-dressed man on a bicycle? Attire!",
       "author": "Wayne Gretzky",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy11.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy11.jpg",
+        "width": 970,
+        "height": 505
+      }
     },
     {
       "id": 12,
       "body": "Why do you never see elephants hiding in trees? Because they’re so good at it!",
       "author": "Marie Curie",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy12.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy12.jpg",
+        "width": 910,
+        "height": 607
+      }
     },
     {
       "id": 13,
       "body": "How does a penguin build its house? Igloos it together!",
       "author": "Erwin Schrödinger",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy13.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy13.jpg",
+        "width": 600,
+        "height": 375
+      }
     },
     {
       "id": 14,
       "body": "Why did the old man fall in the well? Because he couldn’t see that well!",
       "author": "John von Neumann",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy14.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy14.jpg",
+        "width": 560,
+        "height": 558
+      }
     },
     {
       "id": 15,
       "body": "To whoever stole my copy of Microsoft Office, I will find you. You have my Word!",
       "author": "Robert Hooke",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy15.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy15.jpg",
+        "width": 680,
+        "height": 509
+      }
     }
   ]
 }

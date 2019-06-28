@@ -1,34 +1,55 @@
 {
+  "nextPageId": 2,
   "stories": [
     {
       "id": 1,
       "body": "Hello, is this thing on?",
       "author": "Chris P. Bacon",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy1.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy1.jpg",
+        "width": 400,
+        "height": 250
+      }
     },
     {
       "id": 2,
       "body": "Do you know why the scarecrow won an award?\n He was outstanding in his field!",
       "author": "Xerxes II",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy2.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy2.jpg",
+        "width": 960,
+        "height": 640
+      }
     },
     {
       "id": 3,
       "body": "What does a dog and a cellphone have in common?\n Both have Collar ID",
       "author": "Charlemagne",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy3.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy3.jpg",
+        "width": 614,
+        "height": 768
+      }
     },
     {
       "id": 4,
       "body": "What's a dog's favorite instrument?\n A Trom-bone!",
       "author": "Henry VIII",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy4.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy4.jpg",
+        "width": 576,
+        "height": 768
+      }
     },
     {
       "id": 5,
       "body": "What concert costs just 45 cents?\n 50 Cent featuring Nickelback!",
       "author": "Ivan the Terrible",
-      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy5.jpg"
+      "img": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy5.jpg",
+        "width": 633,
+        "height": 631
+      }
     }
   ]
 }
