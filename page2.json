@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "id": 6,
+      "body": "What do sprinters eat before a race?\n Nothing, they fast!",
+      "author": "Elizabeth II",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy6.jpg"
+    },
+    {
+      "id": 7,
+      "body": "Why couldn’t the bicycle stand up by itself?\n It was two tired!",
+      "author": "Voldemort",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy7.jpg"
+    },
+    {
+      "id": 8,
+      "body": "Did you hear about the restaurant on the moon?\n Great food, no atmosphere!",
+      "author": "Gandolf",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy8.jpg"
+    },
+    {
+      "id": 9,
+      "body": "Why do melons have weddings?\n Because they cantaloupe!",
+      "author": "Saruman",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy9.jpg"
+    },
+    {
+      "id": 10,
+      "body": "What happens when you go to the bathroom in France? European.",
+      "author": "Gaius Marius",
+      "img": "https://andrewmunn.github.io/newsfeed/puppers/puppy20.jpg"
+    }
+  ]
+}
