@@ -2,50 +2,50 @@
   "nextPageId": null,
   "stories": [
     {
-      "id": 16,
+      "id": "D212AC9D-3356-4E40-B4D9-7E9647245824",
       "body": "I told my girlfriend she drew her eyebrows too high. She seemed surprised!",
       "author": "Ian Malcolm",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy16.jpg",
         "width": 1260,
         "height": 840
       }
     },
     {
-      "id": 17,
+      "id": "9CED79E5-1EBF-4723-85B0-C4F01DC94FE1",
       "body": "My wife told me I had to stop acting like a flamingo. So I had to put my foot down!",
       "author": "Alan Grant",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy17.jpg",
         "width": 700,
         "height": 472
       }
     },
     {
-      "id": 18,
+      "id": "1245FB05-75B8-4E7B-99A5-B0A1B10FED5A",
       "body": "So a vowel saves another vowel’s life. The other vowel says, “Aye E! I owe you!”",
       "author": "John Hammond",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy18.jpg",
         "width": 897,
         "height": 100
       }
     },
     {
-      "id": 19,
+      "id": "3643940E-75A5-4960-853A-767889B11082",
       "body": "Two goldfish are in a tank. One says to the other, “Do you know how to drive this thing?”",
       "author": "A Unix System",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy19.jpg",
         "width": 710,
         "height": 921
       }
     },
     {
-      "id": 20,
+      "id": "7E6C53EB-4CB1-4A80-A7FC-287B8E495788",
       "body": "I am become Death, the destroyer of worlds.",
       "author": "J. Robert Oppenheimer",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy20.jpg",
         "width": 605,
         "height": 341

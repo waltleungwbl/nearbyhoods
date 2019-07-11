@@ -1,51 +1,51 @@
 {
-  "nextPageId": 3,
+  "nextPageId": "3",
   "stories": [
     {
-      "id": 6,
+      "id": "DC0E0245-A30C-48AA-A537-C825B5693C48",
       "body": "What do sprinters eat before a race?\n Nothing, they fast!",
       "author": "Elizabeth II",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy6.jpg",
         "width": 480,
         "height": 317
       }
     },
     {
-      "id": 7,
+      "id": "B2FD8D79-59D2-41BD-9E34-F0647F87055D",
       "body": "Why couldn’t the bicycle stand up by itself?\n It was two tired!",
       "author": "Voldemort",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy7.jpg",
         "width": 2047,
         "height": 1356
       }
     },
     {
-      "id": 8,
+      "id": "EE4A89B1-A455-4FFD-8521-133857E06C5E",
       "body": "Did you hear about the restaurant on the moon?\n Great food, no atmosphere!",
       "author": "Gandolf",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy8.jpg",
         "width": 540,
         "height": 627
       }
     },
     {
-      "id": 9,
+      "id": "FA3CFC76-BA82-4013-961F-AAA202E43EA3",
       "body": "Why do melons have weddings?\n Because they cantaloupe!",
       "author": "Saruman",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy9-broken.jpg",
         "width": 480,
         "height": 767
       }
     },
     {
-      "id": 10,
+      "id": "67C8E362-60D0-47CF-8977-331DE8CDE814",
       "body": "What happens when you go to the bathroom in France? European.",
       "author": "Gaius Marius",
-      "img": {
+      "image": {
         "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy10.jpg",
         "width": 750,
         "height": 720
