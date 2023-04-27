@@ -1,0 +1,53 @@
+{
+  "radius": 10,
+  "neighborhoods": [
+    {
+      "id": "E7476758-D8DE-409E-908F-3CA2E691B66A",
+      "name": "Glen Park",
+      "distance": 0.3,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy1.jpg"
+      }
+    },
+    {
+      "id": "F085FB96-43F0-4A6A-83EE-675FADEDF653",
+      "name": "Forest Knolls",
+      "distance": 0.3,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy2.jpg"
+      }
+    },
+    {
+      "id": "4460378D-A63F-4C4C-9708-BC4FC6AE3CC8",
+      "name": "Inner Sunset",
+      "distance": 2.3,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy3.jpg"
+      }
+    },
+    {
+      "id": "AB32539B-27AA-4CCE-9AF1-FD55D0B74DC0",
+      "name": "Inner Richmond",
+      "distance": 2.1,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy4.jpg"
+      }
+    },
+    {
+      "id": "CE06509E-7DC9-4FA7-9739-A3ED5BBB8029",
+      "name": "Tenderloin",
+      "distance": 3.1,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy5.jpg"
+      }
+    },
+    {
+      "id": "CE06509E-7DC9-4FA7-9739-A3ED5BBB8029",
+      "name": "Belvedere Island",
+      "distance": 20.1,
+      "mascot": {
+        "url": "https://andrewmunn.github.io/newsfeed/puppers/puppy6.jpg"
+      }
+    }
+  ]
+}
